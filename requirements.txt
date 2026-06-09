@@ -1,0 +1,7 @@
+scrapy
+openpyxl
+fastapi
+uvicorn
+streamlit
+pandas
+python-multipart
